@@ -70,6 +70,8 @@ The system demonstrates **dynamic content rendering**, **database-driven functio
 It is ideal for students and beginners to learn:
 - **Web development using PHP**
 - **Database design with MySQL**
+
+---
 - **Frontend development using HTML, CSS, and Bootstrap**
 - **Basic e-commerce logic and user management**
 
